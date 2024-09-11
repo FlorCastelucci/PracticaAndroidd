@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">PracticaaNDRIOID</string>
+    <string name="about_us_text">
+        Somos un equipo de amantes de los animales que entiende la importancia de proporcionar a las mascotas el mejor cuidado y atención.\n
+        En PetBoutique, nos enorgullece ofrecer productos seleccionados cuidadosamente para garantizar la satisfacción tanto de los dueños como de sus queridas mascotas.\n
+        Nuestra pasión por los animales nos impulsa a brindar un servicio excepcional y una selección diversa de productos que hacen que la vida de los perros sea aún más emocionante y cómoda.\n
+        Nuestro compromiso es brindarte productos de alta calidad que combinen estilo y funcionalidad.\n
+        Ya sea que estés buscando un regalo especial para tu mejor amigo peludo o simplemente quieras mimarlo un poco más, en PetBoutique estamos aquí para ayudarte.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

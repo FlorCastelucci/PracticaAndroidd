@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Fondo de la Imagen -->
+    <item>
+        <bitmap
+            android:src="@drawable/portadala"
+            android:gravity="center" android:scaleType="fitXY"
+            android:tileMode="repeat"/>
+    </item>
+
+    <!-- Fondo del Gradiente -->
+    <item>
+        <shape
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+
+            <gradient
+                android:type="linear"
+                android:startColor="#C93AD6C7"
+                android:centerColor="#BF69B5DF"
+                android:endColor="#CC6F60E2"
+                android:angle="0"
+                />
+
+        </shape>
+
+    </item>
+
+</layer-list>
